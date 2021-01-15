@@ -1,0 +1,1 @@
+Remove-S3Bucket -BucketName trevor-west2

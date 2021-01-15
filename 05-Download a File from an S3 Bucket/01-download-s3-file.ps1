@@ -1,0 +1,1 @@
+Get-S3Object -BucketName trevor-west2
